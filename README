@@ -1,3 +1,4 @@
+OpenVpn & BadVpn 三层路由包都可以使用Lwip处理TCP协议，这几乎是最好的选择。
 INTRODUCTION
 
 lwIP is a small independent implementation of the TCP/IP protocol suite.
